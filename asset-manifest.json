@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee4494cd.chunk.css",
-    "main.js": "/static/js/main.937ba252.chunk.js",
-    "main.js.map": "/static/js/main.937ba252.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dbd8c39d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dbd8c39d.js.map",
-    "static/js/2.e6d07418.chunk.js": "/static/js/2.e6d07418.chunk.js",
-    "static/js/2.e6d07418.chunk.js.map": "/static/js/2.e6d07418.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fbd24f824c39d0c45a9b67b521789e28.js": "/precache-manifest.fbd24f824c39d0c45a9b67b521789e28.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ee4494cd.chunk.css.map": "/static/css/main.ee4494cd.chunk.css.map",
-    "static/js/2.e6d07418.chunk.js.LICENSE.txt": "/static/js/2.e6d07418.chunk.js.LICENSE.txt",
-    "static/media/bg.jpg": "/static/media/bg.e815187d.jpg",
-    "static/media/covindia.PNG": "/static/media/covindia.4b934e82.PNG",
-    "static/media/poketwo.PNG": "/static/media/poketwo.044be97d.PNG",
-    "static/media/preact.png": "/static/media/preact.8822fe82.png",
-    "static/media/pytorch.png": "/static/media/pytorch.f0068063.png",
-    "static/media/rust.png": "/static/media/rust.3b220bca.png"
+    "main.css": "/portfolio_v3/static/css/main.ee4494cd.chunk.css",
+    "main.js": "/portfolio_v3/static/js/main.78615625.chunk.js",
+    "main.js.map": "/portfolio_v3/static/js/main.78615625.chunk.js.map",
+    "runtime-main.js": "/portfolio_v3/static/js/runtime-main.dddd1dd0.js",
+    "runtime-main.js.map": "/portfolio_v3/static/js/runtime-main.dddd1dd0.js.map",
+    "static/js/2.e6d07418.chunk.js": "/portfolio_v3/static/js/2.e6d07418.chunk.js",
+    "static/js/2.e6d07418.chunk.js.map": "/portfolio_v3/static/js/2.e6d07418.chunk.js.map",
+    "index.html": "/portfolio_v3/index.html",
+    "precache-manifest.9db94b1a34b3fc507e99338ddb48e938.js": "/portfolio_v3/precache-manifest.9db94b1a34b3fc507e99338ddb48e938.js",
+    "service-worker.js": "/portfolio_v3/service-worker.js",
+    "static/css/main.ee4494cd.chunk.css.map": "/portfolio_v3/static/css/main.ee4494cd.chunk.css.map",
+    "static/js/2.e6d07418.chunk.js.LICENSE.txt": "/portfolio_v3/static/js/2.e6d07418.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/portfolio_v3/static/media/bg.e815187d.jpg",
+    "static/media/covindia.PNG": "/portfolio_v3/static/media/covindia.4b934e82.PNG",
+    "static/media/poketwo.PNG": "/portfolio_v3/static/media/poketwo.044be97d.PNG",
+    "static/media/preact.png": "/portfolio_v3/static/media/preact.8822fe82.png",
+    "static/media/pytorch.png": "/portfolio_v3/static/media/pytorch.f0068063.png",
+    "static/media/rust.png": "/portfolio_v3/static/media/rust.3b220bca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbd8c39d.js",
+    "static/js/runtime-main.dddd1dd0.js",
     "static/js/2.e6d07418.chunk.js",
     "static/css/main.ee4494cd.chunk.css",
-    "static/js/main.937ba252.chunk.js"
+    "static/js/main.78615625.chunk.js"
   ]
 }
